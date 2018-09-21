@@ -1,3 +1,3 @@
 # Playground Repo
 
-For practicing.
+A new Fall 2018 message.
